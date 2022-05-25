@@ -1,4 +1,4 @@
-<h1>Simple Malware - Ransomware</h1>
+<h1>Simple Ransomware</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
