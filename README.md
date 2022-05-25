@@ -18,32 +18,28 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connect to Linux box: <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware1.png" height="80%" width="80%" alt="Initial Step"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create some files:  <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware2.png" height="80%" width="80%" alt="Creating content within the directory"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Encoding script: <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware_Encrypting_code.png" height="80%" width="80%" alt="Malware code"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Result of the contents of files after running the malware:  <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware4.png" height="80%" width="80%" alt="Effect of the malware code"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Decoding script:  <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware_Decrypting_code.png" height="80%" width="80%" alt="Solution to restoring files back"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Restore files with failed attempt and successful attempt:  <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware6.png" height="80%" width="80%" alt="Restored files"/>
 </p>
 
 <!--
